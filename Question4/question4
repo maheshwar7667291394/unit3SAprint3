@@ -1,0 +1,5 @@
+What are the different states of a thread, or what is thread lifecycle?
+A thread has three states: Running, Ready, and Blocked.
+
+life cycle means how much time will take to new state to terminal state ;
+life cycle has following state new, ready, running, waiting, terminated, and suspended.

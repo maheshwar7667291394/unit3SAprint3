@@ -1,0 +1,10 @@
+Q5) Differentiate between the Thread class and Runnable interface for creating a
+Thread?
+
+
+Runnable and Thread both way we can achive multitasking 
+if we use  Thread then no need to create thred object since Thred have start method  while ever if we use runnable then we have to create multiple thred object . 
+but if we use Runnable the we can use run the program as normal way.
+
+if we use runnable class then we can extends another class also but if we use extends thred class then we can not extend another class since at the class level java dose not
+support multiple inheritance.

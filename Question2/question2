@@ -1,0 +1,5 @@
+Q2) What are the benefits of using Multithreading?
+
+1->it dosen't block the user 
+2->it dosen't create seprate memory location
+3->it can perform many operation together.
